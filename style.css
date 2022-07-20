@@ -155,3 +155,11 @@ h2{
 #bottom-sign-up{
     border: 1px solid #e5ebf3;
 }
+.footer{
+    background-color: #1f2937;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e5ebf3;
+}
