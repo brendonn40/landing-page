@@ -93,3 +93,24 @@ button{
     align-items: center;
     justify-content: center;
 }
+h2{
+    text-align: center;
+}
+.infosection{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+/* .text{
+    width: 150px;
+} */
+.mid{
+    height: 350px;
+}
+.info,
+.info-img{
+    max-width: 150px;
+}
+/* {
+    max-width: 150px;
+} */
